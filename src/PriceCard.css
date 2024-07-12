@@ -1,0 +1,22 @@
+.PriceCard{
+    margin: 10px;
+    background-color: white ;
+    border-radius: 10px;
+    border-bottom: 1px solid lightgrey;
+
+}
+.ListItems{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    margin: 14px;
+}
+.card-header{
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+.list-group-item{
+    margin: 5px;
+}
